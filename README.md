@@ -109,16 +109,13 @@ Station2: Température Moyenne = 37.5°F, Humidité Moyenne = 47.5%
 
 ## Results
 
-### Sample Output in Console
-![Processed Data in Console](results/console_output.png)
+### Docker containers executed succeffully
+![Screenshot 2024-11-26 231145](https://github.com/user-attachments/assets/57d03b93-a13b-4c38-aae7-b3b36e5f6a6c)
+![Screenshot 2024-11-26 231322](https://github.com/user-attachments/assets/0c532247-86af-4834-8b2c-5a0a92dc2973)
 
-### Example of Filtered Data
-![Filtered Data](results/filtered_data.png)
+### Topics created
+![Screenshot 2024-11-26 231728](https://github.com/user-attachments/assets/c58bd036-665b-471f-8230-027396f8598b)
 
-### Aggregated Results Visualization
-![Aggregated Data](results/aggregated_results.png)
-
-*(Replace the above placeholders with actual screenshots of your test results.)*
 
 ---
 
